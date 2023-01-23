@@ -13,5 +13,6 @@ The toolkit should have map creation and editing tools, including the ability to
 The toolkit should allow for animation importing, including the ability to import custom animations and replace existing ones in the game.
 The toolkit should allow for script editing, including the ability to edit existing scripts and create new ones in the game.
 The toolkit should have TFC editing/generation tools, including the ability to edit existing TFC files and create new ones in the game.
+The toolkit should allow for reindexing UPK files by adding or removing assets to/from the UPK and the game reading the new package perfectly.
 
 Note: Please make sure that the modding toolkit is legal and does not violate any copyright laws and is appropriately licensed.
